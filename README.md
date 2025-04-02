@@ -27,8 +27,17 @@ This project uses the following dependencies:
 - [Axios](https://axios-http.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
+## Live Demo
+The application is hosted at: [EmployWise Portal](https://employ-wise-ivory.vercel.app/)
+
+## Login Credentials
+For login, use the following credentials:
+- **Email**: eve.holt@reqres.in
+- **Password**: cityslicka
+
 ## Development
 To start the development server, run:
+
 
 ```bash
 npm run dev
